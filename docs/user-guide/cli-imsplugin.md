@@ -70,12 +70,8 @@ If you downloaded the Zowe CLI `zowe-cli-bundle.zip` package, complete the follo
 2. Issue the following command to install the plug-in:
 
     ```
-    zowe plugins install zowe-cli-ims-<VERSION_NUMBER>.tgz
+    zowe plugins install zowe-cli-ims.tgz
     ```
-    - **<VERSION_NUMBER>**
-
-        The version of Zowe CLI Plug-in for IMS that you want to install from the package. The following is an example of a full package name for the plug-in: `zowe-ims-2.0.0-next.201810161407.tgz`
-
 
 3. (Optional) After the command execution completes, issue the following command to validate that the installation completed successfully.
   
